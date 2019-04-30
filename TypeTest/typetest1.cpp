@@ -6,7 +6,6 @@
 using namespace std;
 
 int main(){
-
     string S1 = "Hello";
     string S2 = "Goodbye, I love pie";
     string test1, test2;
